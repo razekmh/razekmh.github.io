@@ -796,9 +796,9 @@ main {
 }
 
 .timeline-item-place {
-  font-size: var(--fs-4);
+  font-size: var(--fs-9);
   font-style: italic;
-  color:hsl(0, 0%, 75%)
+  color:hsl(0, 0%, 36%)
   line-height: 1.2;
   margin-bottom: 7px;
 }
