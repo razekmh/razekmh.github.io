@@ -796,10 +796,10 @@ main {
 }
 
 .timeline-item-place {
-  font-size: var(--fs-9);
+  font-size: var(--fs-6);
   font-style: italic;
   color:hsl(0, 0%, 36%);
-  line-height: 1.2;
+  line-height: 0.9;
   margin-bottom: 7px;
 }
 
