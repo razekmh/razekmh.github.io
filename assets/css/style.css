@@ -798,7 +798,7 @@ main {
 .timeline-item-place {
   font-size: var(--fs-6);
   font-style: italic;
-  color:hsl(0, 0%, 50%);
+  color:hsl(0, 2%, 75%);
   line-height: 0.8;
   margin-bottom: 3px;
 }
